@@ -1,0 +1,13 @@
+{
+  "store": {
+    "name": "Moda Studio",
+    "whatsapp": "5541999999999",
+    "instagram": "@modastudio"
+  },
+  "products": [
+    {"id":1,"name":"Camiseta Oversized","category":"Camisetas","price":89.90,"image":"https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85","description":"Camiseta oversized com caimento confortável e visual moderno.","sizes":["P","M","G","GG"],"colors":["Preto","Branco"]},
+    {"id":2,"name":"Calça Wide Leg","category":"Calças","price":129.90,"image":"https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85","description":"Calça de modelagem ampla para composições versáteis.","sizes":["36","38","40","42"],"colors":["Jeans","Preto"]},
+    {"id":3,"name":"Vestido Minimal","category":"Vestidos","price":149.90,"image":"https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85","description":"Vestido minimalista para produções elegantes e leves.","sizes":["P","M","G"],"colors":["Preto","Bege"]},
+    {"id":4,"name":"Jaqueta Urbana","category":"Jaquetas","price":199.90,"image":"https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85","description":"Jaqueta urbana para compor diferentes looks.","sizes":["P","M","G","GG"],"colors":["Preto","Marrom"]}
+  ]
+}
