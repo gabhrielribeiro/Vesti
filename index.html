@@ -19,7 +19,10 @@
   <nav class="mobile-nav" id="mobileNav"><a href="#inicio">Início</a><a href="#categorias">Categorias</a><a href="#produtos">Produtos</a><a href="#contato">Contato</a></nav>
   <main>
     <section class="hero" id="inicio">
-      <img class="hero-banner" src="assets/banner-desktop.png" alt="Banner da coleção Vesti" />
+      <picture>
+        <source media="(max-width: 680px)" srcset="assets/banner-mobile.png" />
+        <img class="hero-banner" src="assets/banner-desktop.png" alt="Banner da coleção Vesti" />
+      </picture>
     </section>
     <section class="benefits"><span>✦ Atendimento personalizado</span><span>◌ Compra pelo WhatsApp</span><span>✧ Curadoria de estilo</span></section>
     <section class="section" id="categorias"><div class="section-head"><div><p class="eyebrow">EXPLORE</p><h2>Categorias</h2></div><a class="link" href="#produtos">Ver todas →</a></div><div class="categories" id="categories"></div></section>
